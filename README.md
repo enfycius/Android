@@ -23,8 +23,8 @@
 
 |      Projects     |                                 Contents                                |                                                 What you'll learn                                                 |
 |:-----------------:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| Background Change | Project with a background color that changes when the button is pressed |                                           Button Listener, Linear Layout                                          |
-|   BMI Calculator  |                              BMI Calculator                             | Button Listener, Linear Layout, Layout Gravity, Where the logic for the button is located, Method separation, etc |
+| [Background Change](/tree/main/Tutorial_1) | Project with a background color that changes when the button is pressed |                                           Button Listener, Linear Layout                                          |
+|   [BMI Calculator](/tree/main/Tutorial_2)  |                              BMI Calculator                             | Button Listener, Linear Layout, Layout Gravity, Where the logic for the button is located, Method separation, etc |
 
 
 
