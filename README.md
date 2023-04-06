@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a title="License GNU" href="https://github.com/enfycius/IoU-for-Darknet/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL v3-blue?style=flat-square"> <br>
+    <a title="License GNU" href="https://github.com/enfycius/Android/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL v3-blue?style=flat-square"> <br>
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/enfycius/Android"/>
     <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/enfycius/Android"/>
 </p>
