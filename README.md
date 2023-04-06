@@ -16,8 +16,8 @@
 
 ## Table of contents
 
-  * [Projects](#%EF%B8%8F-quick-start)
-  * [License](#warning-license)
+  * [Projects](#)
+  * [License](#)
 
 ## :star: Projects
 
