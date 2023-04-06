@@ -5,7 +5,7 @@
 <h1 align="center">Android Tutorials</h1>
 
 <p align="center">
-    A collection of projects for learning Android
+    A collection of projects, resources and tutorials (etc) for learning Android
 </p>
 
 <p align="center">
@@ -17,6 +17,8 @@
 ## Table of contents
 
   * [Projects](#)
+  * [Resources](#)
+  * [Tutorials](#)
   * [License](#)
 
 ## :star: Projects
@@ -26,8 +28,11 @@
 | [Background Change](./Tutorial_1) | Project with a background color that changes when the button is pressed |                                           Button Listener, Linear Layout                                          |
 |   [BMI Calculator](./Tutorial_2)  |                              BMI Calculator                             | Button Listener, Linear Layout, Layout Gravity, Where the logic for the button is located, Method separation, etc |
 
+## :seedling: Resources
 
+## :partly_sunny: Tutorials
 
+This section refers to the following [link](https://enfycius.github.io/_enfycius/docs-cs/category/android).
 
 ## :warning: License
 
